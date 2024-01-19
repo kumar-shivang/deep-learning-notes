@@ -1,6 +1,6 @@
 # Deep Learning Notes
 
-This repo contains notes for my Deep Learning - BSC3004 course. The notes are written in markdown.
+This repo contains notes for my Deep Learning - BSC3004 course. The notes are written in markdown with some help from Google Bard. All images are from the lecture slides. The notes are written in a way that I can understand them. I hope you find them useful too.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This repo contains notes for my Deep Learning - BSC3004 course. The notes are wr
   * [Madness and the rise of Transformers](/Week1/l4.md)
   * [Call for Sanity in AI](/Week1/l5.md)
   * [Motivation from Biological Neuron](/Week1/l6.md)
-* [Week 2](/Week2/)
+<!-- * [Week 2](/Week2/)
 * [Week 3](/Week3/)
 * [Week 4](/Week4/)
 * [Week 5](/Week5/)
@@ -21,4 +21,4 @@ This repo contains notes for my Deep Learning - BSC3004 course. The notes are wr
 * [Week 9](/Week9/)
 * [Week 10](/Week10/)
 * [Week 11](/Week11/)
-* [Week 12](/Week12/)
+* [Week 12](/Week12/) -->
