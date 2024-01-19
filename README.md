@@ -5,6 +5,7 @@ This repo contains notes for my Deep Learning - BSC3004 course. The notes are wr
 ## Table of Contents
 
 * [Week 1](/Week1/)
+  * [Lecture 1](/Week1/l1.md)
 * [Week 2](/Week2/)
 * [Week 3](/Week3/)
 * [Week 4](/Week4/)
