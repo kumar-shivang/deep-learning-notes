@@ -8,6 +8,7 @@ This repo contains notes for my Deep Learning - BSC3004 course. The notes are wr
   * [Brief History of Deep Learning](/Week1/l1.md)
   * [The Deep Revival](/Week1/l2.md)
   * [Faster, Higher, Stronger](/Week1/l3.md)
+  * [Madness and the rise of Transformers](/Week1/l4.md)
 * [Week 2](/Week2/)
 * [Week 3](/Week3/)
 * [Week 4](/Week4/)
