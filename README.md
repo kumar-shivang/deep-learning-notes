@@ -10,6 +10,7 @@ This repo contains notes for my Deep Learning - BSC3004 course. The notes are wr
   * [Faster, Higher, Stronger](/Week1/l3.md)
   * [Madness and the rise of Transformers](/Week1/l4.md)
   * [Call for Sanity in AI](/Week1/l5.md)
+  * [Motivation from Biological Neuron](/Week1/l6.md)
 * [Week 2](/Week2/)
 * [Week 3](/Week3/)
 * [Week 4](/Week4/)
